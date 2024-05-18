@@ -1,0 +1,7 @@
+﻿  Lab1.cpp
+D:\Users\rusaz\source\repos\Lab1\Deposit.cpp(29,26): warning C4552: "-": результат выражения не используется
+  (компиляция исходного файла "Lab1.cpp")
+  
+D:\Users\rusaz\source\repos\Lab1\Lab1.cpp(21,17): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\Users\rusaz\source\repos\Lab1\Point.cpp(42,1): warning C4715: Point::compare: значение возвращается не при всех путях выполнения
+  Lab1.vcxproj -> D:\Users\rusaz\source\repos\Lab1\x64\Debug\Lab1.exe
